@@ -52,7 +52,7 @@ export function VPhotoGrid() {
           <br/>
           {useTypedText('Date: 10.2018', 50)}
         </h2>
-        <Image alt="Photo of climbing Karolina" src={climbingTopPhoto} layout="fill"/>
+        <Image alt="Photo of climbing John" src={climbingTopPhoto} layout="fill"/>
       </div>
       <div className={styles.eiffel}>
         <h2 className={styles.photoInfo}>
@@ -124,7 +124,7 @@ export function VPhotoGrid() {
           <br/>
           {useTypedText('Date: 07.2018', 50)}
         </h2>
-        <Image alt="Photo of Karolina bowling" src={bowlingPhoto} layout="fill"/>
+        <Image alt="Photo of John bowling" src={bowlingPhoto} layout="fill"/>
       </div>
       <div className={styles.cross}>
         <h2 className={styles.photoInfo}>
@@ -196,7 +196,7 @@ export function VPhotoGrid() {
           <br/>
           {useTypedText('Date: 02.2021', 50)}
         </h2>
-        <Image alt="Photo of Karolina skiing" src={skiSwissPhoto} layout="fill"/>
+        <Image alt="Photo of John skiing" src={skiSwissPhoto} layout="fill"/>
       </div>
       <div className={styles.game}>
         <h2 className={styles.photoInfo}>
@@ -204,7 +204,7 @@ export function VPhotoGrid() {
           <br/>
           {useTypedText('Date: 03.2019', 50)}
         </h2>
-        <Image alt="Photo of Karolina plaing game" src={playingIEMPhoto} layout="fill"/>
+        <Image alt="Photo of John plaing game" src={playingIEMPhoto} layout="fill"/>
       </div>
     </div>
   )
